@@ -20,6 +20,7 @@ create-react-native-app CameraDemoApp
 ### Install the required packages
 
 yarn add expo-image-picker
+
 yarn add expo-permissions
 
 ### Open Project in Visual Studio
